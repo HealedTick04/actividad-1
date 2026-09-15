@@ -331,21 +331,6 @@ El uso de CSS externo permite separar la estructura HTML del diseño visual, fac
 
 ---
 
-## 🔹 Prácticas 11 y 12
-
-Estas prácticas forman parte del menú principal del proyecto y están preparadas para ser consultadas desde `index.html`.
-
-La documentación específica de cada una puede ampliarse con los siguientes datos:
-
-* Objetivo de la práctica.
-* Etiquetas HTML utilizadas.
-* Estilos CSS aplicados.
-* Funcionalidad desarrollada.
-* Capturas de pantalla.
-* Enlace directo a la página publicada.
-
----
-
 # 🚀 Publicación con GitHub Pages
 
 El proyecto fue publicado mediante **GitHub Pages**, utilizando:
@@ -358,39 +343,6 @@ El proyecto fue publicado mediante **GitHub Pages**, utilizando:
 Esto permite acceder al proyecto desde cualquier navegador mediante la siguiente dirección:
 
 🌐 https://healedtick04.github.io/actividad-1/
-
----
-
-## 📌 Aprendizajes obtenidos
-
-Durante el desarrollo de esta actividad se practicaron los fundamentos necesarios para construir páginas web estáticas:
-
-1. Crear documentos HTML correctamente estructurados.
-2. Diferenciar etiquetas de contenido y etiquetas semánticas.
-3. Utilizar enlaces internos y externos.
-4. Trabajar con rutas relativas.
-5. Insertar imágenes desde carpetas del proyecto.
-6. Crear listas y tablas.
-7. Separar HTML y CSS.
-8. Organizar varias páginas mediante un menú principal.
-9. Utilizar Git para guardar cambios.
-10. Publicar un proyecto web mediante GitHub Pages.
-
----
-
-## 🔧 Mejoras futuras
-
-Como posibles mejoras para el proyecto se pueden implementar:
-
-* Agregar estilos generales al menú principal.
-* Utilizar Bootstrap para mejorar el diseño responsive.
-* Incorporar JavaScript para agregar interactividad.
-* Añadir botones de navegación entre prácticas.
-* Corregir y unificar el idioma de los documentos HTML.
-* Mejorar la accesibilidad de las imágenes y enlaces.
-* Renombrar archivos sin espacios para facilitar su mantenimiento.
-* Agregar capturas de pantalla de cada práctica.
-* Completar la documentación detallada de las prácticas 11 y 12.
 
 ---
 
